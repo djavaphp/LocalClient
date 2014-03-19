@@ -1,0 +1,8 @@
+	Generate Stub from Apache CXF + Spring Service :
+       
+      - Select Project
+      | 		 Properties 
+      |		   	     Project Facate
+      | 		 		Select cxf , dynamic web  and , java
+      | 		 			choose server
+      | 		 				Finish. 
